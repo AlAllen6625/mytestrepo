@@ -3,3 +3,6 @@ NBA
     Boston Celtics
     NY Knicks
     
+West
+  Lakers
+  Suns
