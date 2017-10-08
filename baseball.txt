@@ -2,3 +2,7 @@ Baseball
   East
     Philidelphia Phillies
     NY Mets
+
+West
+Dogers
+Padres
