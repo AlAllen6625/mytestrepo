@@ -2,3 +2,7 @@ Baseball
   East
     Philidelphia Phillies
     NY Mets
+
+South
+Huston Astros
+Atlanta Braves
